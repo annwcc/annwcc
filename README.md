@@ -7,4 +7,4 @@ All datasets that were used is available in: https://github.com/annwcc/annwcc/bl
 
 
 # code
-The code used is also available in: https://github.com/annwcc/annwcc/blob/6bd0652d35d0fa7460bfe1b1e3c566bf55cc4f4c/code.rar
+The code used is also available in:https://github.com/annwcc/annwcc/blob/master/code.rar
