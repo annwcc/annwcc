@@ -6,4 +6,4 @@ Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad
 All datasets that were used is available in: https://github.com/zohre123/clinical-data-classification./blob/master/data_set.rar
 
 # code
-The code used is also available in: https://github.com/zohre123/clinical-data-classification./blob/master/code.rar
+The code used is also available in: https://github.com/annwcc/annwcc/blob/6bd0652d35d0fa7460bfe1b1e3c566bf55cc4f4c/code.rar
