@@ -3,7 +3,7 @@ Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad
 
 
 # data set
-All datasets that were used is available in: https://github.com/zohre123/clinical-data-classification./blob/master/data_set.rar
+All datasets that were used is available in: https://github.com/annwcc/annwcc/blob/master/data_set.rar & https://github.com/annwcc/annwcc/blob/master/imp.rar 
 
 
 # code
