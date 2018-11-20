@@ -1,0 +1,2 @@
+# annwcc
+Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad navin ,  Mehdi Hsseinzadeh , Ali Rezaeea.  university of Tehran, Tehran, iran.  FEATURESELECT, an application for feature selection based on machine learning methods, has been developed in laboratory of system biology and bioinformatics (LBB). FEATURESELECT can be applied on problems needing to select subset of features from given feature set. In continue, we describe some aspects of FEATURESELECT.
