@@ -1,5 +1,7 @@
 # annwcc
-Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad navin ,  Mehdi Hsseinzadeh , Ali Rezaeea.  university of Tehran, Tehran, iran.  FEATURESELECT, an application for feature selection based on machine learning methods, has been developed in laboratory of system biology and bioinformatics (LBB). FEATURESELECT can be applied on problems needing to select subset of features from given feature set. In continue, we describe some aspects of FEATURESELECT.
+Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad navin , Mehdi Hsseinzadeh , Ali Rezaeea. Department of computer engineering Science and Research Branch, Islamic Azad university, Tehran, Iran. Clinical and biological data classification has applications in several areas such as the diagnosis, estimation and prognosis of diseases. It is one of the most challenging problems in the field of machine learning, and one of the most critical problems in medicine. In order to address this issue, we propose a new method based on a combination of an ANN and the WCC algorithm in order to classify a clinical dataset.
+
+
 
 
 # data set
