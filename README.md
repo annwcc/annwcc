@@ -9,4 +9,4 @@ All datasets that were used is available in: https://github.com/annwcc/annwcc/bl
 
 
 # code
-The code used is also available in:https://github.com/annwcc/annwcc/blob/master/code.rar
+We implemented ANNWCC in the MATLAB programing language.
