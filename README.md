@@ -5,7 +5,8 @@ Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad
 
 
 # data set
-All datasets that were used is available in: https://github.com/annwcc/annwcc/blob/master/data_set.rar
+In this article, we have used the biological and real clinical data sets used in various papers. diseases dataset such as heart, lung and cancer. These data sets have different characteristics, some of them are numerous sampels and some have many features.Some of these data sets are bainery classification and others are multi classification (The number of their labels is not low).
+
 
 
 # code
