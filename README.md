@@ -9,6 +9,7 @@ This repository includes datasets which are taken from the literatures and sourc
 We have used the biological and real clinical data sets used in various literatures. The datasets are relative to several fields such as heart, diabet and cnacer diseases. These data sets have different characteristics. For example, a number of their samples are more than their features, or a number of their attributes are more than their samples. Also, some of the datasets are binary classification problems whereas others are multi-class classification problems. in the preprocess stage, data which have missing values are removed. Then fuzzification and normalization of them are done. The acquired datasets can be used for clinical and biological data classification using machine learning approaches. The properties of the datasets are depicted in fig.1. NOI, NOF, NOC, DT, and MV are abbreviations for a number of instances, a number of features, a number of classes, data type, and missing values respectively.
 
 ![image](https://user-images.githubusercontent.com/45210797/49004248-14f90100-f179-11e8-8b6a-db964e61c2fe.png)
+
 Fig.1: The properties of the datasets
 
 
